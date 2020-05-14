@@ -35,7 +35,7 @@ public class Map extends JFrame {
 	/**
 	 * Default time delay when repainting the Map to reflect MapCell changes
 	 */
-	public static final int DEFAULT_TIME_DELAY = 250;
+	public static final int DEFAULT_TIME_DELAY = 10;
 
 	// Attributes
 	private int timeDelay;
