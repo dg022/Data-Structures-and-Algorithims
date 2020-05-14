@@ -6,7 +6,7 @@ Introductory data structures and algorithm courses are mainly focused on the tra
 
 All implementations are written Java. 
 
-## Figures: A few examples of the content in this repo
+## Figures: Examples of both course content and code in repo
 
 ###### Figure 1.1: Path finding via depth first approach
 ![](pathFind.gif)
